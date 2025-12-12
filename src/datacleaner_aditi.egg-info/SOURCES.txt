@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/datacleaner_aditi/__init__.py
+src/datacleaner_aditi/core.py
+src/datacleaner_aditi.egg-info/PKG-INFO
+src/datacleaner_aditi.egg-info/SOURCES.txt
+src/datacleaner_aditi.egg-info/dependency_links.txt
+src/datacleaner_aditi.egg-info/requires.txt
+src/datacleaner_aditi.egg-info/top_level.txt
+tests/test_core.py

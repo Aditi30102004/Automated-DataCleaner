@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: data-cleaner-aditi
+Version: 0.1.0
+Summary: Simple automated data cleaning utilities for pandas
+Author-email: Aditi Pandey <aditip2722@gmail.com>
+Project-URL: Homepage, https://github.com/yourname/data-cleaner-aditi
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Dynamic: license-file

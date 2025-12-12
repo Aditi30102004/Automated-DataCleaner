@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: data-cleaner
+Version: 0.1.0
+Summary: A tiny automated data cleaning utility for pandas DataFrames.
+Author-email: Your Name <you@example.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas>=1.5
+Requires-Dist: scikit-learn>=1.2
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Dynamic: license-file
