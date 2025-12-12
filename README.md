@@ -1,4 +1,4 @@
-datacleaner-aditi
+
 datacleaner-aditi is a lightweight Python package for automated data cleaning on pandas DataFrames. It handles duplicates, missing values, messy column names, and categorical encoding with a simple, configurable interface.​
 
 Features
